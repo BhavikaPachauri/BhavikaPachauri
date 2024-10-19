@@ -9,11 +9,13 @@
 
 -----------------------------------------------------------
 👩‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Full Stack Developer | Web Enthusiast <br>
-⚡ Check out my ✨ [Portfolio](https://github.com/BhavikaPachauri/) or connect via [LinkedIn](https://www.linkedin.com/in/bhavika-pachauri/)<br>
-📫 How to reach me: [Email Me](mailto:bhavikapachauri02@gmail.com)<br>
-👯 I’m open to collaboration on full-stack and open-source projects!<br>
-💬 Ask me about web development, API integration, and more.<br>
+- 🔭 I’m currently working on **full-stack web applications** that focus on usability, performance, and clean design.
+- 🌱 Continuously improving my skills in **Node.js, React.js, PHP, and MySQL**.
+- 👯 I’m open to collaborate on **innovative projects** that require both creativity and technical expertise.
+- 💬 Feel free to ask me about **frontend frameworks** like React and Angular or **backend development** with Node.js and PHP.
+- 📫 How to reach me: **[bhavikapachauri02@gmail.com](mailto:bhavikapachauri02@gmail.com)**.
+- 😄 Pronouns: **She/Her**.
+- ⚡ Fun fact: I love working on projects that blend tech and healthcare, like my **Cardio Care web app**!
 
 <!--- Adding Tech Stack open Section -->
 
@@ -56,15 +58,19 @@ Here are some of my favorite projects:<br>
    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=BhavikaPachauri&show_icons=true&theme=radical" alt="Bhavika Pachauri github stats" />
 </a>
 
-<!--- Recent Projects Section -->
+### 📚 Education:
+- **B.Sc. Computer Science**, Dayalbagh Educational Institute, Agra (2021–2024) | 86.3%
+- **XII (PCM)**, Prem Vidhyalay Girl’s Intermediate College, Agra (2019–2021) | 93.3%
+- **X** | Prem Vidhyalay Girl’s Intermediate College, Agra (2017–2019) | 93.6%
 
-<details>	
- <summary><b>📚 Recent Projects/ Activity</b></summary><br>
+### 🏆 Awards & Certifications:
+- **Outstanding Intern**, LetsGrowMore (2022)
+- **Second Position** in Science Exhibition (2018)
+- Certifications in **Python, Java, and SQL** from HackerRank
 
- ✨ [Movie Search App](https://github.com/BhavikaPachauri/movie-search-app)<br>
- ✨ [CRUD App](https://github.com/BhavikaPachauri/crud-app)<br>
-
-</details>
+### 🌐 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/bhavika-pachauri/)
+- [GitHub](https://github.com/BhavikaPachauri/)
 
 <p align="center">
 Do you want to collaborate or chat about tech? ⟶ <a href="mailto:bhavikapachauri02@gmail.com">Contact me</a><br>
