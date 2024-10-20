@@ -8,7 +8,7 @@
 </p>
 
 -----------------------------------------------------------
-👩‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👩‍💻 **About Me**<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSbKcaBPp80ch7bvhkO5bgKVyjAW9_BhA_3FPzWbDQosaAfNuZ" min-width="300px" max-width="300px" width="350px" align="right"> 
 - 🔭 I’m currently working on **full-stack web applications** that focus on usability, performance, and clean design.
 - 🌱 Continuously improving my skills in **Node.js, React.js, PHP, and MySQL**.
 - 👯 I’m open to collaborate on **innovative projects** that require both creativity and technical expertise.
