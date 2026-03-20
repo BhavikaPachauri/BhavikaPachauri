@@ -1,103 +1,178 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/bhavika-pachauri/">Bhavika Pachauri</a> </h1>
+<div align="center">
 
-<!--- Adding Header Elements -->
-<p align="center">
-  <a href="https://github.com/BhavikaPachauri/">GitHub</a> -
-  <a href="https://www.linkedin.com/in/bhavika-pachauri/">LinkedIn</a> -
-  <a href="mailto:bhavikapachauri02@gmail.com">Email</a>
-</p>
+```
+██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗██╗  ██╗ █████╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║██║ ██╔╝██╔══██╗
+██████╔╝███████║███████║██║   ██║██║█████╔╝ ███████║
+██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝██║██╔═██╗ ██╔══██║
+██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║██║  ██╗██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
------------------------------------------------------------
-👩‍💻 **About Me**<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSbKcaBPp80ch7bvhkO5bgKVyjAW9_BhA_3FPzWbDQosaAfNuZ" min-width="300px" max-width="300px" width="350px" align="right"> 
-- 🔭 I’m currently working on **full-stack web applications** that focus on usability, performance, and clean design.
-- 🌱 Continuously improving my skills in **Node.js, React.js, PHP, and MySQL**.
-- 👯 I’m open to collaborate on **innovative projects** that require both creativity and technical expertise.
-- 💬 Feel free to ask me about **frontend frameworks** like React and Angular or **backend development** with Node.js and PHP.
-- 📫 How to reach me: **[bhavikapachauri02@gmail.com](mailto:bhavikapachauri02@gmail.com)**.
-- 😄 Pronouns: **She/Her**.
-- ⚡ Fun fact: I love working on projects that blend tech and healthcare, like my **Cardio Care web app**!
+# ✦ Bhavika Pachauri ✦
+### `Full-Stack Developer` · `Healthcare Tech Enthusiast` · `Open Source Contributor`
 
-<!--- Adding Tech Stack open Section -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Building+beautiful%2C+functional+web+apps+%F0%9F%92%BB;React+%7C+Node.js+%7C+PHP+%7C+MySQL;Where+code+meets+creativity+%E2%9C%A8;Tech+%2B+Healthcare+%3D+%F0%9F%92%96+Cardio+Care" alt="Typing SVG" />
 
-<details>	
- <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
-Languages: 
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"> &nbsp;<br>
-Backend: 
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-Express.js-404D59?logo=Express&logoColor=white&style=flat"> &nbsp;<br>
-Frameworks and Libraries: 
-<img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat">&nbsp;<br>
-Tools: 
-<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat">&nbsp;<br>
-Operating Systems: 
-<img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;
+<br>
 
-</details>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavika-pachauri/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhavikaPachauri/)
+[![Email](https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavikapachauri02@gmail.com)
 
-<!--- 1st Section on Curated Articles -->
-<b>📝 Featured Projects</b><br>
-
-Here are some of my favorite projects:<br>
-  📘 [URL Shortener](https://github.com/BhavikaPachauri/url-shortener-nodejs)<br>
-  📒 [Cardio Care Web App](https://github.com/BhavikaPachauri/cardio-care)<br>
-  📙 [CRUD App](https://github.com/BhavikaPachauri/crud-app)<br>
-
-
-### GSSOC'(24)-Ext Badges 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  </a>
 </div>
 
-### Holopin Badges
-[![An image of @BhavikaPachauri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavikapachauri)](https://www.holopin.io/@bhavikapachauri)
+---
 
-<h3 align="left">💼Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditi-verma-571062227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-verma-571062227/" height="30" width="40" /></a>
-</p>
+<img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+## 🌸 About Me
 
+```javascript
+const bhavika = {
+  pronouns: "She / Her",
+  location: "Agra, India 🇮🇳",
+  currentFocus: "Full-Stack Web Applications",
+  learning: ["Node.js", "React.js", "PHP", "MySQL"],
+  passion: "Blending Tech & Healthcare 💖",
+  funFact: "My Cardio Care app proves code saves lives!",
+  openTo: "Collaborations & Innovative Projects 🚀"
+};
+```
 
-<!--- GitHub Analytics -->
+- 🔭 Currently crafting **full-stack web apps** focused on usability & performance
+- 🌱 Deepening expertise in **React.js, Node.js, PHP & MySQL**
+- 💡 Passionate about projects that sit at the intersection of **tech and healthcare**
+- 🏅 Proud contributor to **GSSoC'24** & certified by **HackerRank**
+- 💬 Ask me about **React, Angular, Node.js** or anything frontend/backend!
+- 📫 Drop me a line: **[bhavikapachauri02@gmail.com](mailto:bhavikapachauri02@gmail.com)**
 
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/BhavikaPachauri">
-   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=BhavikaPachauri&show_icons=true&theme=radical" alt="Bhavika Pachauri github stats" />
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🌐 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🔗 Project | 📝 Description | 🛠 Stack |
+|---|---|---|
+| 💗 [**Cardio Care Web App**](https://github.com/BhavikaPachauri/cardio-care) | Healthcare platform for cardiac monitoring | React, Node.js, MySQL |
+| 🔗 [**URL Shortener**](https://github.com/BhavikaPachauri/url-shortener-nodejs) | Fast, minimal URL shortening service | Node.js, Express |
+| 📋 [**CRUD App**](https://github.com/BhavikaPachauri/crud-app) | Clean and efficient data management | PHP, MySQL |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhavikaPachauri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavikaPachauri&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikaPachauri&theme=tokyonight" alt="BhavikaPachauri" />
+</div>
+
+---
+
+## 🎓 Education
+
+```
+🎓  B.Sc. Computer Science
+    Dayalbagh Educational Institute, Agra  |  2021–2024  |  86.3% ⭐
+
+📚  XII (PCM)
+    Prem Vidhyalay Girl's Intermediate College, Agra  |  2019–2021  |  93.3% 🔥
+
+📖  X
+    Prem Vidhyalay Girl's Intermediate College, Agra  |  2017–2019  |  93.6% 🌟
+```
+
+---
+
+## 🏆 Awards & Certifications
+
+<div align="center">
+
+🥇 **Outstanding Intern** — LetsGrowMore (2022)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🥈 **2nd Position** — Science Exhibition (2018)
+
+![Python](https://img.shields.io/badge/HackerRank-Python-brightgreen?style=flat-square&logo=hackerrank)
+![Java](https://img.shields.io/badge/HackerRank-Java-brightgreen?style=flat-square&logo=hackerrank)
+![SQL](https://img.shields.io/badge/HackerRank-SQL-brightgreen?style=flat-square&logo=hackerrank)
+
+</div>
+
+---
+
+## 🌟 GSSoC'24 Badges
+
+<div align="center">
+<a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
 </a>
+</div>
 
-### 📚 Education:
-- **B.Sc. Computer Science**, Dayalbagh Educational Institute, Agra (2021–2024) | 86.3%
-- **XII (PCM)**, Prem Vidhyalay Girl’s Intermediate College, Agra (2019–2021) | 93.3%
-- **X** | Prem Vidhyalay Girl’s Intermediate College, Agra (2017–2019) | 93.6%
+---
 
-### 🏆 Awards & Certifications:
-- **Outstanding Intern**, LetsGrowMore (2022)
-- **Second Position** in Science Exhibition (2018)
-- Certifications in **Python, Java, and SQL** from HackerRank
+## 🎖️ Holopin Badges
 
-### 🌐 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/bhavika-pachauri/)
-- [GitHub](https://github.com/BhavikaPachauri/)
+[![Bhavika's Holopin badges](https://holopin.me/bhavikapachauri)](https://www.holopin.io/@bhavikapachauri)
 
-<p align="center">
-Do you want to collaborate or chat about tech? ⟶ <a href="mailto:bhavikapachauri02@gmail.com">Contact me</a><br>
-<b> Show some ❤️ by starring my repositories!</b>
-</p>
+---
 
+<div align="center">
 
+### 💌 Let's Build Something Amazing Together!
 
+> *"Code is not just syntax — it's how we make the world a little better, one app at a time."* 💫
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavika-pachauri/)
+[![Email Me](https://img.shields.io/badge/Say_Hello!-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavikapachauri02@gmail.com)
+
+---
+
+⭐️ **If you like my work, consider starring my repositories — it means the world!** ⭐️
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=BhavikaPachauri&icon=5&color=6)
+
+</div>
