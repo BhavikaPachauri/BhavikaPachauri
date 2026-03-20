@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhavika%20Pachauri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer+%7C+1%2B+Years+Experience;💡+React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;🎯+Building+Scalable%2C+Responsive+Web+Apps;🌸+Open+Source+Contributor+%7C+GSSoC'24;💖+Where+Code+Meets+Creativity!" alt="Typing SVG" />
+
 
 <br>
 
